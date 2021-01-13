@@ -1,0 +1,4 @@
+E:\bmviewer\bmviewer\obj\Debug\bmviewer.csprojAssemblyReference.cache
+E:\bmviewer\bmviewer\obj\Debug\bmviewer.Properties.Resources.resources
+E:\bmviewer\bmviewer\obj\Debug\bmviewer.csproj.GenerateResource.cache
+E:\bmviewer\bmviewer\obj\Debug\bmviewer.csproj.CoreCompileInputs.cache
